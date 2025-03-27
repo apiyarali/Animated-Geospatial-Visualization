@@ -14,7 +14,7 @@
     
 
   ## Overview
-  This project explores the mathematical foundations of geospatial visualization, specifically focusing on great-circle navigation, vector transformations, and Mercator projections. Using R and Shiny, it provides an interactive experience for users to manipulate geospatial data and apply mathematical principles to navigation and coordinate systems.
+  This app explores the mathematical foundations of geospatial visualization, specifically focusing on great-circle navigation, vector transformations, and Mercator projections. Using R and Shiny, it provides an interactive experience for users to manipulate geospatial data and apply mathematical principles to navigation and coordinate systems.
   ## Features
   ### 3D Geospatial Navigation
   - Computation and visualization of great-circle routes on a sphere.
