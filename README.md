@@ -14,7 +14,7 @@
   ### Setup
   ```sh
   # Clone the repository
-  git clone https://github.com/your-repo/GeospatialVisualization.git
+  git clone https://github.com/apiyarali/Animated-Geospatial-Visualization.git
   cd GeospatialVisualization
   ```
   ```r
@@ -28,11 +28,6 @@
   shiny::runApp()
   ```
   ## Usage
-  ### Animated 2D
-  1. **Initialize Variables:** Define mathematical functions and clear the environment.
-  2. **Generate Random Vectors:** Use `rnorm(2)` to generate direction vectors.
-  3. **Adjust Controls:** Modify the animation slider for step size and timing.
-  4. **Execute Plotting:** Visualize trajectory updates line by line.
   ### 3D Navigation
   1. **Load City Data:**
      - Open `spherical.R` and run `sph.makeCityDF()` to load `cities.csv`.
