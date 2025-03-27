@@ -1,12 +1,12 @@
 # Animated Geospatial Visualization
 
-**Link to Publish App: [Geospatial Visualization](https://apiyarali.shinyapps.io/AirMiles3D/)
+**Link to Publish App: [Geospatial Visualization](https://apiyarali.shinyapps.io/AirMiles3D/)**
 
   * [Overview](#Overview)
   * [Features](#Features)
   * [Installation](#Installation)
   * [Usage](#Usage)
-  * [Mathematical Concepts](#'Mathematical Concepts')
+  * [Mathematical Concepts](#Mathematical Concepts)
   * 
     
 
