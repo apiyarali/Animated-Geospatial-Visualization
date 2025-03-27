@@ -7,10 +7,10 @@
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [Mathematical Concepts](#mathematical-concepts)
-   *  [Dot Product](#Dot-Product)
-   *  [Cross Product](#Cross-Product)
-   *  [Great-Circle Navigation](#Great-Circle-Navigation)
-   *  [Mercator Projection](#Mercator-Projection)
+    *  [Dot Product](#Dot-Product)
+    *  [Cross Product](#Cross-Product)
+    *  [Great-Circle Navigation](#Great-Circle-Navigation)
+    *  [Mercator Projection](#Mercator-Projection)
     
 
   ## Overview
