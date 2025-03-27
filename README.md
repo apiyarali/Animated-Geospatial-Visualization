@@ -1,6 +1,14 @@
 # Animated Geospatial Visualization
 
+**Link to Publish App: [Geospatial Visualization](https://apiyarali.shinyapps.io/AirMiles3D/)
+
   * [Overview](#Overview)
+  * [Features](#Features)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Mathematical Concepts](#'Mathematical Concepts')
+  * 
+    
 
   ## Overview
   This project explores the mathematical foundations of geospatial visualization, specifically focusing on great-circle navigation, vector transformations, and Mercator projections. Using R and Shiny, it provides an interactive experience for users to manipulate geospatial data and apply mathematical principles to navigation and coordinate systems.
